@@ -1,0 +1,8 @@
+params;valeur
+n_samples;32768
+frequence_echantillonnage ;50000
+srinv (9-255);16
+f0_signal;2000
+silence_transitoire;20000
+fichier_reception;output.npy
+signal;None
